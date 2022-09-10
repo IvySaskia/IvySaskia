@@ -1,6 +1,6 @@
 ### Hi there 👋 
  Welcome to **IVY SASKIA's** profile
- 
+ #### System Engineer Student
  ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4216CC&vCenter=true&width=435&lines=%3C+Full+Stack+Blockchain+Developer+%2F%3E;%3C+System+Engineer+Student+%2F%3E;%3C+Always+learning+something+new+%2F%3E;%3C++I+turn+bugs+into+features+%2F%3E)](https://git.io/typing-svg)
@@ -25,6 +25,13 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 - 🚀 I enjoy learning every day and working on developing new products.
 - 🌱 Now I am learning everyting of the world of Blockchain.
 - 📚 I like to share my knowledge and have taught classes on data structures.
+- 🔭 I’m currently working on getting my degree and makin 
+- 🌱 I’m currently learning Blockchain's World 
+- 👯 I’m looking to collaborate on WEB3 projects 
+- 📫 How to reach me: ivysaskia@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IvySaskia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivy-rocabado/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ivy.s.rocabado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ivy_saskia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IvySaskia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tinyurl.com/IS-CV-vercel)
 
 
 ## ⚒️ Projects
@@ -54,14 +61,17 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 
 ![Ivy Saskia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvySaskia&theme=aura_dark&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvySaskia)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub metrics](https://metrics.lecoq.io/IvySaskia)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvySaskia)
+
+
+## 📊 Fun Facts
+
+- ⚡ Fun fact: I am crazy about these shows FRIENDS / SUPERNATURAL / 9-1-1 
+  
+
+![Profile views](https://gpvc.arturio.dev/IvySaskia)  
