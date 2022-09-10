@@ -61,15 +61,14 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 
 ![Ivy Saskia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvySaskia&theme=aura_dark&show_icons=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvySaskia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvySaskia&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/IvySaskia)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvySaskia)
 
 
-## 📊 Fun Facts
+## ⚡ Fun Facts
 
 - ⚡ Fun fact: I am crazy about these shows FRIENDS / SUPERNATURAL / 9-1-1 
   
