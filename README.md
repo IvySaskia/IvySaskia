@@ -48,11 +48,11 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 ## Technologies
 
 
-## 🔥 Streak stats
 
 
 ## 📊 Github stats
 
+![Ivy Saskia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvySaskia&theme=aura_dark&show_icons=true)
 
 Here are some ideas to get you started:
 
