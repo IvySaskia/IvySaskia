@@ -25,7 +25,7 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 - 🚀 I enjoy learning every day and working on developing new products.
 - 🌱 Now I am learning everyting of the world of Blockchain.
 - 📚 I like to share my knowledge and have taught classes on data structures.
-- 🔭 I’m currently working on getting my degree and makin 
+- 🔭 I’m currently working on getting my degree and making projects that solve current problems on society focusing on web3. 
 - 🌱 I’m currently learning Blockchain's World 
 - 👯 I’m looking to collaborate on WEB3 projects 
 - 📫 How to reach me: ivysaskia@gmail.com 
@@ -34,7 +34,7 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IvySaskia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivy-rocabado/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ivy.s.rocabado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ivy_saskia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IvySaskia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tinyurl.com/IS-CV-vercel)
 
 
-## ⚒️ Projects
+## ⚒️ Main Projects on WEB3
 
   <a href="https://github.com/IvySaskia/react-eth-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IvySaskia&repo=react-eth-challenge&bg_color=1F222E&title_color=FFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
 
@@ -59,7 +59,6 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 ![image](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
