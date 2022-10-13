@@ -29,6 +29,7 @@ I'm **IVY SASKIA** . I from Bolivia 🇧🇴 , the heart of Latin America. I'm a
 - 🌱 I’m currently learning Blockchain's World 
 - 👯 I’m looking to collaborate on WEB3 projects 
 - 📫 How to reach me: ivysaskia@gmail.com 
+- 📚 I love using Notion as my second brain.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IvySaskia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivy-rocabado/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ivy.s.rocabado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ivy_saskia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IvySaskia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tinyurl.com/IS-CV-vercel)
